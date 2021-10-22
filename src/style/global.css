@@ -1,0 +1,36 @@
+.App {
+    text-align: center;
+    background-image: linear-gradient(45deg,#f8faf9,#042516);
+      color: rgb(19, 18, 18);
+      font-family: "Poppins", sans-serif;
+      min-height: 100vh;
+      font-size: 1.5rem;
+  }
+  input{
+    font-size:100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+    height: 30px;
+    width: 150px;
+    border-radius:5px
+  }
+  button{
+    font-size:100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+    height: 30px;
+    width: 150px;
+    border-radius:5px
+  }
+  select{
+    font-size:100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 30px;
+    width: 150px;
+    border-radius:5px
+  }
+  label{
+    font-size:100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
